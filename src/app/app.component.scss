@@ -1,0 +1,10 @@
+.wrapper {
+    display: flex;
+    padding: 20px;
+    width: 100%;
+
+    flex-grow: 1;
+    border: 2px solid green;
+
+    box-sizing: border-box;
+}
